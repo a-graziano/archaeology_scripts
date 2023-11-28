@@ -1,6 +1,6 @@
-# QGIS Python Scripts Repository
+# QGIS Python Scripts for Archaeology
 
-This repository houses Python scripts intended for use within QGIS, a robust open-source Geographic Information System (GIS) software.
+This repository houses Python scripts intended for use within QGIS and the Archaeology sector.
 
 ## ArchDensity
 
